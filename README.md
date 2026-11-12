@@ -95,6 +95,8 @@ The analysis transforms raw transaction data into meaningful business insights t
 
 ## Power BI Dashboard
 
+![Customer Data Analysis Power BI Dashboard](05_Charts/Customer_Data_Analysis_Chart.png)
+
 The interactive dashboard provides an overview of customer behavior and retail performance.
 
 ### Dashboard Features
